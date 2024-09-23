@@ -1,0 +1,18 @@
+{
+    "name": "laravel-nova/belongs-to-many-component",
+    "type": "tool",
+    "description": "A component for interacting with many-through-many relationships through the admin panel",
+    "keywords": [
+        "laravel",
+        "framework",
+        "laravel-nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^11.9",
+        "laravel/nova": "^4.0",
+        "laravel/scout": "^10.11",
+        "wopro/belongs-to-many-component": "@dev"
+    }
+}
